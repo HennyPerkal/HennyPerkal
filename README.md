@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HennyPerkal
+- 👋 Hi, I’m Henny 
 - 👀 I’m interested in github
 - 🌱 I’m currently learning How to work on github
 
